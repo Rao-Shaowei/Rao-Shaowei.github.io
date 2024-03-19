@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, Zhejiang University, March 2024
+* M.S. in Electrical Engineering, China Electric Power Research Institute, June 2019
+* B.S. in Electrical Engineering, Qingdao University, June 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2022: Visiting student
+  * University of Pisa
+  * Duties included: Academic communications and conducting research
+  * Supervisor: Sami Barmada
+ 
+* August 2019: Admissions Committee Member
+  * China Electric Power Research Institute
+  * Duties includes: Daily management and enrollment of master's and doctoral students
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Latex
+* Programming
+  * Python
+  * Matlab
+  * Fortran
+* LabVIEW
 
 Publications
 ======
@@ -53,12 +47,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
