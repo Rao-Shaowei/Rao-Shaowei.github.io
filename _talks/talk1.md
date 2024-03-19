@@ -1,8 +1,8 @@
 ---
-title: "The oral presentation in the 8th International Conference on Electromagnetic Field Problems and Applications(ICEF2021)"
+title: "Fault Diagnosis of Power Transformers Using ANN and SMOTE Algorithm"
 collection: talks
-type: "Talk"
-venue: "ICEF"
+type: "Oral presentation"
+venue: "The 8th International Conference on Electromagnetic Field Problems and Applications(ICEF2021)"
 date: 2021-10-30
 location: "Tianjin, China"
 ---
