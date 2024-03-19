@@ -20,7 +20,7 @@ Work experience
 * September 2022 -- September 2023: Visiting student
   * University of Pisa
   * Duties included: Academic communications and conducting research
-  * Supervisor: Sami Barmada
+  * Supervisor: Prof. Sami Barmada
  
 * August 2019 -- August 2020: Admissions Committee Member
   * China Electric Power Research Institute
